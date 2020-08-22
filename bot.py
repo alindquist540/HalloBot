@@ -9,3 +9,4 @@ async def on_ready():
     print('Bot is ready.')
 
 client.run('NzQ2NDU0NzE1MTg4OTAzOTY2.X0AkIA.NEehz3sMWfwYwgXfHE_id4oOIRM')
+DICORD RESET MY TOKEN SO THIS DOESN'T WORK, FIGURE OUT HOW TO FIX LATER
